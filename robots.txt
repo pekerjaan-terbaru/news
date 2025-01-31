@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://pekerjaan-terbaru.github.io/news/sitemap.xml
